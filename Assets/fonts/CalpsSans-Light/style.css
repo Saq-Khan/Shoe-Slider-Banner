@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Calps Sans';
+    src: local('Calps Sans Light'), local('Calps-Sans-Light'),
+        url('CalpsSans-Light.woff2') format('woff2'),
+        url('CalpsSans-Light.woff') format('woff'),
+        url('CalpsSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
